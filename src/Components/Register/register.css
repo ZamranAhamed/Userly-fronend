@@ -1,0 +1,95 @@
+/* Container Styling */
+/* .registration-container {
+    padding: 50px 20px;
+    max-width: 500px;
+    margin: 0 auto;
+    background-color: #f8f8f8;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  } */
+  
+  /* Title Styling */
+  .registration-title {
+    font-size: 36px;
+    text-align: center;
+    color: #007bff;
+    margin-bottom: 30px;
+  }
+  
+  /* Form Styling */
+  .registration-form {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 50px 30px;
+    max-width: 500px;
+    margin: 0 auto;
+    background-color: #f8f8f8;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Label Styling */
+  .registration-form label {
+    font-size: 16px;
+    color: #333;
+  }
+  
+  /* Input Field Styling */
+  .input-field {
+    padding: 12px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    margin-bottom: 15px;
+    width: 100%;
+    background-color: #fff;
+  }
+  
+  .input-field:focus {
+    outline: none;
+    border-color: #007bff;
+  }
+  
+  /* Button Styling */
+  .submit-btn {
+    padding: 14px 20px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .submit-btn:hover {
+    background-color: #0056b3;
+  }
+  
+  .submit-btn:focus {
+    outline: none;
+  }
+  
+  /* Responsive Design */
+  @media (max-width: 600px) {
+    .registration-container {
+      padding: 20px;
+      width: 90%;
+    }
+  
+    .registration-title {
+      font-size: 30px;
+    }
+  
+    .input-field {
+      padding: 10px;
+      font-size: 14px;
+    }
+  
+    .submit-btn {
+      padding: 12px 18px;
+      font-size: 14px;
+    }
+  }
+  

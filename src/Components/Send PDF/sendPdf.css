@@ -1,0 +1,115 @@
+/* Container Styling */
+/* .send-pdf-container {
+    padding: 40px 20px;
+    max-width: 700px;
+    margin: 0 auto;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  } */
+  
+  /* Title Styling */
+  .send-pdf-title {
+    font-size: 32px;
+    text-align: center;
+    color: #007bff;
+    margin-bottom: 30px;
+  }
+  
+  /* Form Styling */
+  .send-pdf-form {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 40px 20px;
+    max-width: 700px;
+    margin: 0 auto;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Label and Input Field Styling */
+  .form-label {
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .form-input,
+  .file-input {
+    padding: 12px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    width: 100%;
+    background-color: #fff;
+  }
+  
+  .form-input:focus,
+  .file-input:focus {
+    outline: none;
+    border-color: #007bff;
+  }
+  
+  /* Button Styling */
+  .submit-btn {
+    padding: 12px 24px;
+    font-size: 16px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    background-color: #007bff;
+    color: white;
+    transition: background-color 0.3s ease-in-out;
+    align-self: center;
+  }
+  
+  .submit-btn:hover {
+    background-color: #0056b3;
+  }
+  
+  .submit-btn:focus {
+    outline: none;
+  }
+  
+  /* PDF Details Styling */
+  .pdf-details-container {
+    margin-top: 30px;
+    padding: 40px 30px;
+    max-width: 700px;
+    margin: 0 auto;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .pdf-item {
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+  }
+  
+  .pdf-title {
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .view-btn {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+  
+  .view-btn:hover {
+    background-color: #0056b3;
+  }
+  

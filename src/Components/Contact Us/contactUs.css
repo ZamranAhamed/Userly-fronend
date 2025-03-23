@@ -1,0 +1,102 @@
+/* Container Styling */
+/* .contact-us-container {
+    padding: 40px 20px;
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  } */
+  
+  /* Title Styling */
+  .contact-us-title {
+    font-size: 32px;
+    color: #007bff;
+    margin-bottom: 30px;
+    text-align: center;
+  }
+  
+  /* Form Styling */
+  .contact-us-form {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin-bottom: 30px;
+    padding: 30px 40px;
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  /* Label Styling */
+  .form-label {
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+    text-align: left;
+    margin-bottom: 5px;
+  }
+  
+  /* Input and Textarea Styling */
+  .form-input,
+  .form-textarea {
+    padding: 12px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    width: 100%;
+    background-color: #fff;
+  }
+  
+  .form-input:focus,
+  .form-textarea:focus {
+    outline: none;
+    border-color: #007bff;
+  }
+  
+  /* Textarea Styling */
+  .form-textarea {
+    resize: vertical;
+  }
+  
+  /* Submit Button Styling */
+  .submit-btn {
+    padding: 12px 24px;
+    font-size: 16px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    background-color: #007bff;
+    color: white;
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+  .submit-btn:hover {
+    background-color: #0056b3;
+  }
+  
+  .submit-btn:focus {
+    outline: none;
+  }
+  
+  /* Contact Info Section */
+  .contact-info {
+    margin-top: 40px;
+    font-size: 16px;
+    color: #333;
+    text-align: center;
+  }
+  
+  .contact-info a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .contact-info a:hover {
+    text-decoration: underline;
+  }
+  

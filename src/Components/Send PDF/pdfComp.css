@@ -1,0 +1,32 @@
+/* PDF Viewer Container Styling */
+.pdf-viewer-container {
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 700px;
+    margin: 20px auto;
+  }
+  
+  /* PDF Page Styling */
+  .pdf-page {
+    margin: 20px 0;
+    display: block;
+    width: 100%;
+    height: auto;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+  }
+  
+  /* Page Info Styling */
+  .pdf-page-info {
+    text-align: center;
+    font-size: 16px;
+    color: #007bff;
+    margin-top: 20px;
+  }
+
+  .file-not-found {
+    text-align: center;
+  }
+  
